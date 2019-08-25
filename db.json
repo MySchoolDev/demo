@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "results": [
+    { "GUID": "{163EA4B1-CE53-43EE-9A37-01FDDF8E1453}", "Tag": "Help","Title":"What type of tenancy do I have?","Description":"If you're a new tenant, you may be given a one-year starter tenancy. We will offer you an assured or fixed-term tenancy at the end of your one year if we're satisfied that you have met your responsibilities as a tenant","Url":"https://www.a2dominion.co.uk/What-type-of-tenancy-do-I-have" },
+    { "GUID": "{163EA4B1-CE53-43EE-9A37-01FDDF8E1454}", "Tag": "Help","Title":"Our policy on anti social behaviour","Description":"It is important you keep a record of any incidents so we can use it to measure and monitor the ASB, which will help us decide what action we can take. An incident diary is a good way for you to note the dates and times when the ASB happens.","Url":"https://www.a2dominion.co.uk/How-can-I-report-antisocial-behaviour" },
+    { "GUID": "{163EA4B1-CE53-43EE-9A37-01FDDF8E1455}", "Tag": "Help","Title":"How can i pay my rent and service charge?","Description":"There are a number of different ways you can pay your rent and service charge with A2Dominion, making it easy for you to keep up-to-date with your payments. You can make a payment in the following ways","Url":"https://www.a2dominion.co.uk/How-can-I-pay-my-rent-and-service-charge" }
+  ]
 }
